@@ -13,3 +13,4 @@ def word_counter(filename):
         print(f'{word} {count}')
     
 word_counter('test.txt')
+word_counter('twain.txt')
